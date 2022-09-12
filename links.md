@@ -4,18 +4,11 @@ permalink: /LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, tempor hokben lorem.
+1. [Markdown Cheatsheet]([https://en.wikipedia.org/wiki/1](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))<br>
+A quick reference and showcase for Markdown.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Silberschatz]([https://en.wikipedia.org/wiki/2](https://www.os-book.com/OS10/slide-dir/))<br>
+The Powerpoints for each chapter of Avi Silberschatz' Operating System Concepts
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
-
+3. [Linux Commands]([https://en.wikipedia.org/wiki/3](https://linuxopsys.com/topics/basic-linux-commands))<br>
+A overview on basic Linux commands.
