@@ -1,35 +1,12 @@
-version:          "0--12-Sept-2022"
-copyright:        "2021-2022"
-title:            "twlodarczak GitHub Page"
-author:           "Tessa"
-address:          ""
-description:
-  Ttwlodarczk GitHub Page
-disclaimer:
-  I have spoken.
-tagline:          ""
-keywords:         ""
-navbarlinks:
-- navbar:         "Home"
-  link:           "/"
-- navbar:         "Links"
-  link:           "/LINKS/"
-- navbar:         "GitHub"
-  link:           "https://github.com/twlodarczak/os222/
-lang:             "en-US"
-sitemap:          "true"
-markdown:         "kramdown"
-urlgithub:        "https://github.com/twlodarczak/os222/"
-google_analytics: "G-KPSLWHN6H7"
-plugins:
-- jekyll-sitemap
-- jekyll-seo-tag
-- jekyll-paginate
-defaults:
-- scope:
-    path:    ""
-  values:
-    layout:  "default"
-github:
-- metadata
-
+version:     "00--12-Sep-2022"
+copyright:   "2022"
+author:      "Tessa Wlodarczak"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/twlodarczak/os222/"
+myloglink:   "/TXT/mylog.txt"
+mypublickey: ""
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
