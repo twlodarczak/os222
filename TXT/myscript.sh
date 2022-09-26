@@ -80,11 +80,14 @@ for II in W?? ; do
     [ -d $II ] || continue
     TARFILE=my$II.tar.bz2
     TARFASC=$TARFILE.asc
-    rm -vf $TARFILE $TARFASC
+    TXTTAR="twlodarczak.txt.tar.bz2"
+    TXTASC="twlodarczak.txt.asc" 
+    rm -vf $TARFILE $TARFASC $TXTASC $TXTTAR
     echo "tar cfj $TARFILE $II/"
     tar cfj $TARFILE $II/
     echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
     gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
+    gpg --armor --output $TXTASC --encrypt --recipient $REC1 --recipient $REC2
 done
 popd
 
