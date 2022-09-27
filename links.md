@@ -13,7 +13,7 @@ permalink: /LINKS/
 > The E-Book for Avi Silberschatz' - Operating System Concepts 9th Edition.
 
 ## Shell Commands
-### Basics
+#### Basics
 
 > [Linux Commands](https://linuxopsys.com/topics/basic-linux-commands)<br>
 > A overview on basic Linux commands.
@@ -21,7 +21,7 @@ permalink: /LINKS/
 > [Debian Shell Commands](https://wiki.debian.org/ShellCommands)<br>
 > An Overview on the Shell Commands of Debian. 
 
-### VI
+#### VI
 
 > [VI Editor](https://www.linuxjournal.com/content/how-use-vi-editor-linux)<br>
 > Explanation and Overview of VI Editor.
